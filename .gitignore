@@ -1,0 +1,3 @@
+.idea
+*.sqlite3
+asana_offershub/local_settings.py

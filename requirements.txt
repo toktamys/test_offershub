@@ -1,0 +1,4 @@
+django
+django-admin
+psycopg2
+asana
